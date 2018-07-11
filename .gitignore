@@ -1,3 +1,9 @@
+# vim
+Session.vim
+
+#LSP
+compile_commands.json
+
 # Prerequisites
 *.d
 
